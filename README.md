@@ -6,6 +6,7 @@ Calculator web application demo project, used for various
 training classes around continuous delivery by Praqma.
 
 
+
 The project was earlier called [Praqma training RoadShow](https://github.com/praqma-training/roadshow), so there is a bit legacy and some hack, leaving room for exercises :-)
 
 
